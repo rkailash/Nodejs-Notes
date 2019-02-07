@@ -1,0 +1,2 @@
+NodeJS is a java script run-time written in C++. V8 javascript engine is embedded in NodeJS. V8 compiles javascript into machine code. 
+NodeJS extends what javascript can do like read/write files, memory etc.
